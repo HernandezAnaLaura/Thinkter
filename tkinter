@@ -21,3 +21,5 @@ etiqueta_resultado = tk.Label(ventana, text="")
 etiqueta_resultado.pack() 
 
 ventana.mainloop()
+etiqueta = tk.Label(root, text="TRABAJO DE ANA LAURA HERNANDEZ DENICIA")
+etiqueta.pack()
